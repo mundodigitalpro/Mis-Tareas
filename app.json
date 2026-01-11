@@ -14,7 +14,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.josejordandev.mitermuxtest"
+      "bundleIdentifier": "com.mundodigitalpro.mistareas"
     },
     "android": {
       "adaptiveIcon": {
@@ -22,7 +22,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.josejordandev.mitermuxtest"
+      "package": "com.mundodigitalpro.mistareas"
     },
     "web": {
       "favicon": "./assets/favicon.png"
