@@ -13,17 +13,25 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.josejordandev.mitermuxtest"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.josejordandev.mitermuxtest"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "owner": "josejordandev",
+    "extra": {
+      "eas": {
+        "projectId": "1a964968-db75-4322-b3ef-c3a1a56338db"
+      }
     }
   }
 }
