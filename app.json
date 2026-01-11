@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mi-termux-test",
-    "slug": "mi-termux-test",
+    "name": "Mis-Tareas",
+    "slug": "mis-tareas",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
